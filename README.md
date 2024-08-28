@@ -21,7 +21,7 @@ Refund é uma aplicação web simples projetada para gerenciar solicitações de
 
 ## Demonstração
 
-[Vídeo de Demonstração](./img/img_refund.png)
+![Imagem do site](./img/img_refund.png)
 
 ## Como Utilizar
 
